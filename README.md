@@ -1,2 +1,2 @@
 # gamma-release
-new releases of teh app application gamma for VTOP
+new releases of the app application gamma for VTOP
